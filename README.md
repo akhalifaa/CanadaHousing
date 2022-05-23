@@ -7,3 +7,11 @@
 ![](https://github.com/akhalifaa/CanadaHousing/blob/main/Histo.png)
 
 *Multiple features and their correlation vis histograms*
+
+
+
+
+![](https://github.com/akhalifaa/CanadaHousing/blob/main/Residual.png)
+
+*Plotting the residuals for the Linear Regression Model*
+
