@@ -4,7 +4,7 @@
 2) Utilized multiple data visualisation techniques to portray insights and explain how the different columns in the data frame correlate.
 3) Split up the data for training and testing, fit the data on 3 different regression models: Linear, Ridge and SVR and observed the root mean squared error of each model result.
 
-![](https://github.com/akhalifaa/CanadaHousing/blob/main/Histo.png)
+![](https://github.com/akhalifaa/CanadaHousing/blob/main/histo.png)
 
 *Multiple features and their correlation vis histograms*
 
